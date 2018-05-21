@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpiralClimb</string>
+    <string name="title">Spiral Climb</string>
+    <string name="start">Start</string>
+    <string name="leaderboard">Leaderboards</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+</resources>
